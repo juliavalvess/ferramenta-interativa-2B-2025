@@ -24,7 +24,7 @@ criaCartao(
 criaCartao(
     'Matemática',
     'Quanto é 2.5+2+10',
-    'Oi em ingles é HI (RAI)'
+    '22'
 )
 criaCartao(
     'Sociologia',
