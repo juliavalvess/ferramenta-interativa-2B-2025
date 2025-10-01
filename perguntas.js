@@ -11,13 +11,23 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Biologia',
+    'Quais são as 3 áreas da Biologia?',
+    'Genética e Biologia Molecular, Ecologia, Microbiologia '
 )
 
 criaCartao(
     'Lingua inglesa',
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
+)
+criaCartao(
+    'Matemática',
+    'Quanto é 2.5+2+10',
+    'Oi em ingles é HI (RAI)'
+)
+criaCartao(
+    'Sociologia',
+    'Um dos principais sociólogos',
+    'Karl Marx'
 )
